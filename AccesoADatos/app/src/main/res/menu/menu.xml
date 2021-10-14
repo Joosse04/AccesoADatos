@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.izv.jgallardo.org.consultaagendaad.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never"/>
+
+   <!-- Añado mas cosas en los 3 puntitos
+    <item
+        android:id="@+id/action_loquesea"
+        android:orderInCategory="100"
+        android:title="@string/ok"
+        app:showAsAction="never"/>
+    -->
+</menu>
